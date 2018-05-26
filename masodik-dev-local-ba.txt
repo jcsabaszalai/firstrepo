@@ -1,0 +1,6 @@
+dev-t megszüntettem localisan
+lérehoztam dev-local -t
+abba teszem ezt a filet
+masodik-dev-local-ba.txt
+
+ezt most remote dev-be szeretném belepusholni
