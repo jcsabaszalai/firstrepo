@@ -1,3 +1,8 @@
 ezt a dev branch-ba akarom
 
 harmadik sor
+
+fel is jött dev-ből - dev-be
+sikerült
+Akkor tegnap miért nem sikerült?
+Akkor nem volt local dev-em. Talán azért?
